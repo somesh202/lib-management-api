@@ -11,7 +11,6 @@ bs4==0.0.1
 certifi==2023.11.17
 chardet==4.0.0
 charset-normalizer==3.3.2
-cliapp==1.20180812.1
 click==8.1.7
 colorama==0.4.4
 comm==0.2.0
@@ -22,7 +21,6 @@ debugpy==1.8.0
 decorator==5.1.1
 defusedxml==0.7.1
 distro==1.7.0
-distro-info===1.1build1
 dnspython==2.6.1
 docker==5.0.3
 docker-compose==1.29.2
