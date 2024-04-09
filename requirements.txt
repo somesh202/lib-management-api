@@ -11,7 +11,6 @@ bs4==0.0.1
 certifi==2023.11.17
 chardet==4.0.0
 charset-normalizer==3.3.2
-cliapp==1.20180812.1
 click==8.1.7
 colorama==0.4.4
 comm==0.2.0
