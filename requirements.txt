@@ -29,7 +29,6 @@ exceptiongroup==1.2.0
 executing==2.0.1
 fastapi==0.110.1
 fastjsonschema==2.19.1
-gyp==0.1
 h11==0.14.0
 httplib2==0.20.2
 idna==3.3
