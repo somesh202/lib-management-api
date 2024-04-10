@@ -81,3 +81,6 @@ async def delete_stud(id: str):
         raise HTTPException(status_code=404, detail="Student not found")
     else:
         return {"message": "Student deleted successfully"}
+    
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=8080)
